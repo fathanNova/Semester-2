@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio\\C#\\LatihanClassDanObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBAA6D1A-354C-4D88-A68F-6EA7A33AECA4}|LatihanClassDanObject\\LatihanClassDanObject.csproj|e:\\visual studio\\c#\\latihanclassdanobject\\latihanclassdanobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBAA6D1A-354C-4D88-A68F-6EA7A33AECA4}|LatihanClassDanObject\\LatihanClassDanObject.csproj|solutionrelative:latihanclassdanobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBAA6D1A-354C-4D88-A68F-6EA7A33AECA4}|LatihanClassDanObject\\LatihanClassDanObject.csproj|e:\\visual studio\\c#\\latihanclassdanobject\\latihanclassdanobject\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBAA6D1A-354C-4D88-A68F-6EA7A33AECA4}|LatihanClassDanObject\\LatihanClassDanObject.csproj|solutionrelative:latihanclassdanobject\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\LatihanClassDanObject\\LatihanClassDanObject\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "LatihanClassDanObject\\Mahasiswa.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\LatihanClassDanObject\\LatihanClassDanObject\\Mahasiswa.cs",
+              "RelativeToolTip": "LatihanClassDanObject\\Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:19:23.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\LatihanClassDanObject\\LatihanClassDanObject\\Program.cs",
+              "RelativeDocumentMoniker": "LatihanClassDanObject\\Program.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\LatihanClassDanObject\\LatihanClassDanObject\\Program.cs",
+              "RelativeToolTip": "LatihanClassDanObject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:18:09.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
