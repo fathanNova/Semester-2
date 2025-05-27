@@ -1,0 +1,7 @@
+E:\Visual Studio\C#\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.AssemblyReference.cache
+E:\Visual Studio\C#\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.CoreCompileInputs.cache
+E:\Visual Studio\C#\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe.config
+E:\Visual Studio\C#\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe
+E:\Visual Studio\C#\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.pdb
+E:\Visual Studio\C#\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.exe
+E:\Visual Studio\C#\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.pdb

@@ -1,0 +1,7 @@
+E:\Visual Studio\C#\TugasTaxi\TugasTaxi\bin\Debug\TugasTaxi.exe.config
+E:\Visual Studio\C#\TugasTaxi\TugasTaxi\bin\Debug\TugasTaxi.exe
+E:\Visual Studio\C#\TugasTaxi\TugasTaxi\bin\Debug\TugasTaxi.pdb
+E:\Visual Studio\C#\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.csproj.AssemblyReference.cache
+E:\Visual Studio\C#\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.csproj.CoreCompileInputs.cache
+E:\Visual Studio\C#\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.exe
+E:\Visual Studio\C#\TugasTaxi\TugasTaxi\obj\Debug\TugasTaxi.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio\\C#\\LatihanConstructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A8D368-1EF2-45D9-83CC-7045098A8BDD}|LatihanConstructor\\LatihanConstructor.csproj|e:\\visual studio\\c#\\latihanconstructor\\latihanconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A8D368-1EF2-45D9-83CC-7045098A8BDD}|LatihanConstructor\\LatihanConstructor.csproj|solutionrelative:latihanconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A8D368-1EF2-45D9-83CC-7045098A8BDD}|LatihanConstructor\\LatihanConstructor.csproj|e:\\visual studio\\c#\\latihanconstructor\\latihanconstructor\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A8D368-1EF2-45D9-83CC-7045098A8BDD}|LatihanConstructor\\LatihanConstructor.csproj|solutionrelative:latihanconstructor\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\LatihanConstructor\\LatihanConstructor\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "LatihanConstructor\\Mahasiswa.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\LatihanConstructor\\LatihanConstructor\\Mahasiswa.cs",
+              "RelativeToolTip": "LatihanConstructor\\Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:29:41.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\LatihanConstructor\\LatihanConstructor\\Program.cs",
+              "RelativeDocumentMoniker": "LatihanConstructor\\Program.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\LatihanConstructor\\LatihanConstructor\\Program.cs",
+              "RelativeToolTip": "LatihanConstructor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:29:26.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

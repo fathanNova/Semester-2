@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio\\C#\\LatihanMemberClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69325525-2C1F-4592-A0D3-F94698BA24EC}|LatihanMemberClass\\LatihanMemberClass.csproj|e:\\visual studio\\c#\\latihanmemberclass\\latihanmemberclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69325525-2C1F-4592-A0D3-F94698BA24EC}|LatihanMemberClass\\LatihanMemberClass.csproj|solutionrelative:latihanmemberclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69325525-2C1F-4592-A0D3-F94698BA24EC}|LatihanMemberClass\\LatihanMemberClass.csproj|e:\\visual studio\\c#\\latihanmemberclass\\latihanmemberclass\\planeticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69325525-2C1F-4592-A0D3-F94698BA24EC}|LatihanMemberClass\\LatihanMemberClass.csproj|solutionrelative:latihanmemberclass\\planeticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaneTicket.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\LatihanMemberClass\\LatihanMemberClass\\PlaneTicket.cs",
+              "RelativeDocumentMoniker": "LatihanMemberClass\\PlaneTicket.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\LatihanMemberClass\\LatihanMemberClass\\PlaneTicket.cs",
+              "RelativeToolTip": "LatihanMemberClass\\PlaneTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:33:57.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\LatihanMemberClass\\LatihanMemberClass\\Program.cs",
+              "RelativeDocumentMoniker": "LatihanMemberClass\\Program.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\LatihanMemberClass\\LatihanMemberClass\\Program.cs",
+              "RelativeToolTip": "LatihanMemberClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:32:11.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

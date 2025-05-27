@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio\\C#\\LatihanMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4C19C-E50F-42F1-B9C7-B7D308A8D8F1}|LatihanMethod\\LatihanMethod.csproj|e:\\visual studio\\c#\\latihanmethod\\latihanmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F4C19C-E50F-42F1-B9C7-B7D308A8D8F1}|LatihanMethod\\LatihanMethod.csproj|solutionrelative:latihanmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F4C19C-E50F-42F1-B9C7-B7D308A8D8F1}|LatihanMethod\\LatihanMethod.csproj|e:\\visual studio\\c#\\latihanmethod\\latihanmethod\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F4C19C-E50F-42F1-B9C7-B7D308A8D8F1}|LatihanMethod\\LatihanMethod.csproj|solutionrelative:latihanmethod\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\LatihanMethod\\LatihanMethod\\Calculator.cs",
+              "RelativeDocumentMoniker": "LatihanMethod\\Calculator.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\LatihanMethod\\LatihanMethod\\Calculator.cs",
+              "RelativeToolTip": "LatihanMethod\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:18:29.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\LatihanMethod\\LatihanMethod\\Program.cs",
+              "RelativeDocumentMoniker": "LatihanMethod\\Program.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\LatihanMethod\\LatihanMethod\\Program.cs",
+              "RelativeToolTip": "LatihanMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:18:07.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
