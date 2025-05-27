@@ -1,0 +1,10 @@
+VERSION:3 SOURCE_TIMESTAMP:5AA5A682
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:26 "i -> R4,R5"
+NODE:F LEVEL:0 LINE:28 "nol(void)"
+NODE:F LEVEL:0 LINE:39 "satu(void)"
+NODE:F LEVEL:0 LINE:50 "dua(void)"
+NODE:F LEVEL:0 LINE:61 "empat(void)"
+NODE:F LEVEL:0 LINE:72 "enam(void)"
+NODE:F LEVEL:0 LINE:83 "main(void)"

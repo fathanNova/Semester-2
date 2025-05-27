@@ -1,0 +1,117 @@
+#include <mega32.h>
+#include <stdlib.h>
+#include <delay.h>
+#include <alcd.h>
+
+#define ADC_VREF_TYPE ((1<<REFS0) | (0<<REFS1) | (0<<ADLAR))  
+
+
+unsigned int read_adc(unsigned char adc_input)
+{
+    ADMUX = adc_input | ADC_VREF_TYPE;  // Pilih channel ADC
+    delay_ms(10);                       // Stabilization delay
+    ADCSRA |= (1<<ADSC);                // Start conversion
+    while ((ADCSRA & (1<<ADIF)) == 0);  // Tunggu selesai
+    ADCSRA |= (1<<ADIF);                // Reset flag
+    return ADCW;                        // Return nilai ADC
+}
+
+
+float Rumus(unsigned int adc_value)
+{
+    float voltage = (adc_value * 5.0) / 1024.0;
+    return voltage * 100.0;
+}
+
+void main(void)
+{
+    char dataSuhu[10];
+    float suhu;
+    unsigned char gas;
+    unsigned char flame;
+    unsigned char alarmAktif = 0;
+    int i;
+
+    DDRA = 0x00;     
+    PORTA = 0x00;
+    
+    DDRB &= ~(1 << 0); 
+    PORTB.0=0; 
+
+    DDRC = 0xFF;      
+    PORTC = 0x00;
+
+    DDRD |= (1 << 7);  
+    PORTD &= ~(1 << 7);
+
+   
+    ADMUX = ADC_VREF_TYPE;
+    ADCSRA = (1<<ADEN) | (1<<ADPS2) | (1<<ADPS1) | (1<<ADPS0);  // Enable ADC, prescaler 128
+    SFIOR = 0x00;
+
+    lcd_init(16);
+    lcd_clear();
+
+    while (1)
+    {
+      
+        suhu = Rumus(read_adc(0));
+        ftoa(suhu, 1, dataSuhu);
+        
+        gas = PINA&(1<<1);
+        flame = PINA&(1<<2); 
+        alarmAktif = 0;
+        
+        lcd_gotoxy(0, 0);
+        lcd_puts("Monitor Suhu   ");
+        lcd_gotoxy(0, 1);
+        lcd_puts("Suhu : ");
+        lcd_puts(dataSuhu);
+        lcd_putchar(223);
+        lcd_puts("C    ");
+        
+        lcd_gotoxy(0,3);
+        if(gas && flame)
+        {
+         lcd_puts("KEBAKARAN!           ");
+         alarmAktif = 1;
+        }
+        else if(gas) 
+        {
+          lcd_puts("GAS TERDETEKSI!         ");
+          alarmAktif = 1;
+        }
+        else if(flame)
+        {
+         lcd_puts("API TERDETEKSI!          ");
+         alarmAktif = 1;
+        } 
+        else if(suhu >= 35.0)
+        {
+         lcd_puts("SUHU TINGGI!         ");
+         alarmAktif = 1;
+        }
+        else
+        {
+         lcd_puts("AMAN                 ");
+        }                   
+        
+        if (alarmAktif)
+        {  
+            //PORTD.7 = 1;
+         for(i = 0; i < 50; i++)
+         {         
+            PORTD |= (1 << 7);      
+            delay_us(2700);
+            PORTD &= ~(1 << 7);
+            delay_us(2700);
+         } 
+        }
+        else
+        {
+            PORTD &= ~(1 << 7);     
+            delay_ms(500);          
+        }
+        //delay_ms(10);
+    }
+}

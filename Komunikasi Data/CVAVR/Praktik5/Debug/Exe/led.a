@@ -1,0 +1,120 @@
+;/*******************************************************
+;This program was created by the
+;CodeWizardAVR V3.14 Advanced
+;Automatic Program Generator
+;© Copyright 1998-2014 Pavel Haiduc, HP InfoTech s.r.l.
+;http://www.hpinfotech.com
+;
+;Project :
+;Version :
+;Date    : 27/04/2025
+;Author  :
+;Company :
+;Comments:
+;
+;
+;Chip type               : ATmega32
+;Program type            : Application
+;AVR Core Clock frequency: 12,000000 MHz
+;Memory model            : Small
+;External RAM size       : 0
+;Data Stack size         : 512
+;*******************************************************/
+;
+;#include <mega32.h>
+;PCODE: $00000000 VOL: 0
+	#ifndef __SLEEP_DEFINED__
+;PCODE: $00000001 VOL: 0
+	#define __SLEEP_DEFINED__
+;PCODE: $00000002 VOL: 0
+	.EQU __se_bit=0x80
+;PCODE: $00000003 VOL: 0
+	.EQU __sm_mask=0x70
+;PCODE: $00000004 VOL: 0
+	.EQU __sm_powerdown=0x20
+;PCODE: $00000005 VOL: 0
+	.EQU __sm_powersave=0x30
+;PCODE: $00000006 VOL: 0
+	.EQU __sm_standby=0x60
+;PCODE: $00000007 VOL: 0
+	.EQU __sm_ext_standby=0x70
+;PCODE: $00000008 VOL: 0
+	.EQU __sm_adc_noise_red=0x10
+;PCODE: $00000009 VOL: 0
+	.SET power_ctrl_reg=mcucr
+;PCODE: $0000000A VOL: 0
+	#endif
+;PCODE: $0000000B VOL: 0
+;PCODE: $0000000C VOL: 0
+;#include <delay.h>
+;#include <alcd.h>
+;
+;// Declare your global variables here
+;
+;void main(void)
+; 0000 001F {
+
+	.CSEG
+;PCODE: $0000000D VOL: 0
+; 0000 0020   char i;
+; 0000 0021 
+; 0000 0022 // Alphanumeric LCD initialization
+; 0000 0023 // Connections are specified in the
+; 0000 0024 // Project|Configure|C Compiler|Libraries|Alphanumeric LCD menu:
+; 0000 0025 // RS - PORTC Bit 4
+; 0000 0026 // RD - PORTB Bit 2
+; 0000 0027 // EN - PORTA Bit 2
+; 0000 0028 // D4 - PORTB Bit 0
+; 0000 0029 // D5 - PORTD Bit 6
+; 0000 002A // D6 - PORTC Bit 1
+; 0000 002B // D7 - PORTA Bit 0
+; 0000 002C // Characters/line: 16
+; 0000 002D lcd_init(16);
+;	i -> R17
+;PCODE: $0000000E VOL: 0
+;PCODE: $0000000F VOL: 0
+; 0000 002E 
+; 0000 002F 
+; 0000 0030 while (1)
+;PCODE: $00000010 VOL: 0
+; 0000 0031       {
+; 0000 0032       //PORTD = 0b11111111;
+; 0000 0033       for( i = 0; i < 13; i++)
+;PCODE: $00000011 VOL: 0
+;PCODE: $00000012 VOL: 0
+;PCODE: $00000013 VOL: 0
+;PCODE: $00000014 VOL: 0
+;PCODE: $00000015 VOL: 0
+;PCODE: $00000016 VOL: 0
+;PCODE: $00000017 VOL: 0
+;PCODE: $00000018 VOL: 0
+;PCODE: $00000019 VOL: 0
+; 0000 0034           {
+; 0000 0035           lcd_clear();
+;PCODE: $0000001A VOL: 0
+; 0000 0036           lcd_gotoxy(i,0);
+;PCODE: $0000001B VOL: 0
+;PCODE: $0000001C VOL: 0
+;PCODE: $0000001D VOL: 0
+; 0000 0037           lcd_putsf("Nova");
+;PCODE: $0000001E VOL: 0
+;PCODE: $0000001F VOL: 0
+;PCODE: $00000020 VOL: 0
+; 0000 0038           delay_ms(50);
+;PCODE: $00000021 VOL: 0
+;PCODE: $00000022 VOL: 0
+;PCODE: $00000023 VOL: 0
+; 0000 0039 
+; 0000 003A         }
+;PCODE: $00000024 VOL: 0
+;PCODE: $00000025 VOL: 0
+;PCODE: $00000026 VOL: 0
+;PCODE: $00000027 VOL: 0
+;PCODE: $00000028 VOL: 0
+; 0000 003B       }
+;PCODE: $00000029 VOL: 0
+;PCODE: $0000002A VOL: 0
+; 0000 003C }
+;PCODE: $0000002B VOL: 0
+;PCODE: $0000002C VOL: 0
+;PCODE: $0000002D VOL: 0
