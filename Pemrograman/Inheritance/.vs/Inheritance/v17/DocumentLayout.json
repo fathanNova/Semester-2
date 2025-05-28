@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio\\C#\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D26872B-D11D-421E-8FB4-4D49DE93A1F8}|Inheritance\\Inheritance.csproj|e:\\visual studio\\c#\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D26872B-D11D-421E-8FB4-4D49DE93A1F8}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D26872B-D11D-421E-8FB4-4D49DE93A1F8}|Inheritance\\Inheritance.csproj|e:\\visual studio\\c#\\inheritance\\inheritance\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D26872B-D11D-421E-8FB4-4D49DE93A1F8}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D26872B-D11D-421E-8FB4-4D49DE93A1F8}|Inheritance\\Inheritance.csproj|e:\\visual studio\\c#\\inheritance\\inheritance\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D26872B-D11D-421E-8FB4-4D49DE93A1F8}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D26872B-D11D-421E-8FB4-4D49DE93A1F8}|Inheritance\\Inheritance.csproj|e:\\visual studio\\c#\\inheritance\\inheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D26872B-D11D-421E-8FB4-4D49DE93A1F8}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\Inheritance\\Inheritance\\Student.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Student.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\Inheritance\\Inheritance\\Student.cs",
+              "RelativeToolTip": "Inheritance\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:00:45.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\Inheritance\\Inheritance\\Teacher.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Teacher.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\Inheritance\\Inheritance\\Teacher.cs",
+              "RelativeToolTip": "Inheritance\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:00:29.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\Inheritance\\Inheritance\\Person.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Person.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\Inheritance\\Inheritance\\Person.cs",
+              "RelativeToolTip": "Inheritance\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:00:14.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:59:25.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
