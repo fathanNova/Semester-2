@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio\\C#\\Polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8522DA6-2553-4793-8B64-DE129A45867F}|Polymorphism\\Polymorphism.csproj|e:\\visual studio\\c#\\polymorphism\\polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8522DA6-2553-4793-8B64-DE129A45867F}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8522DA6-2553-4793-8B64-DE129A45867F}|Polymorphism\\Polymorphism.csproj|e:\\visual studio\\c#\\polymorphism\\polymorphism\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8522DA6-2553-4793-8B64-DE129A45867F}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8522DA6-2553-4793-8B64-DE129A45867F}|Polymorphism\\Polymorphism.csproj|e:\\visual studio\\c#\\polymorphism\\polymorphism\\laserjet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8522DA6-2553-4793-8B64-DE129A45867F}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\laserjet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8522DA6-2553-4793-8B64-DE129A45867F}|Polymorphism\\Polymorphism.csproj|e:\\visual studio\\c#\\polymorphism\\polymorphism\\canon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8522DA6-2553-4793-8B64-DE129A45867F}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\canon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8522DA6-2553-4793-8B64-DE129A45867F}|Polymorphism\\Polymorphism.csproj|e:\\visual studio\\c#\\polymorphism\\polymorphism\\epson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8522DA6-2553-4793-8B64-DE129A45867F}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\epson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LaserJet.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\Polymorphism\\Polymorphism\\LaserJet.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\LaserJet.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\Polymorphism\\Polymorphism\\LaserJet.cs",
+              "RelativeToolTip": "Polymorphism\\LaserJet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:02:34.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Canon.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\Polymorphism\\Polymorphism\\Canon.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Canon.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\Polymorphism\\Polymorphism\\Canon.cs",
+              "RelativeToolTip": "Polymorphism\\Canon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:02:13.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Epson.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\Polymorphism\\Polymorphism\\Epson.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Epson.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\Polymorphism\\Polymorphism\\Epson.cs",
+              "RelativeToolTip": "Polymorphism\\Epson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:02:00.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\Polymorphism\\Polymorphism\\Printer.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Printer.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\Polymorphism\\Polymorphism\\Printer.cs",
+              "RelativeToolTip": "Polymorphism\\Printer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:01:45.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\Polymorphism\\Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Program.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\Polymorphism\\Polymorphism\\Program.cs",
+              "RelativeToolTip": "Polymorphism\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:57:00.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
