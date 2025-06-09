@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio\\C#\\LatihanPolymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7D263F-401A-405F-B779-2F06700BF091}|LatihanPolymorphism\\LatihanPolymorphism.csproj|e:\\visual studio\\c#\\latihanpolymorphism\\latihanpolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7D263F-401A-405F-B779-2F06700BF091}|LatihanPolymorphism\\LatihanPolymorphism.csproj|solutionrelative:latihanpolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7D263F-401A-405F-B779-2F06700BF091}|LatihanPolymorphism\\LatihanPolymorphism.csproj|e:\\visual studio\\c#\\latihanpolymorphism\\latihanpolymorphism\\anjing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7D263F-401A-405F-B779-2F06700BF091}|LatihanPolymorphism\\LatihanPolymorphism.csproj|solutionrelative:latihanpolymorphism\\anjing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7D263F-401A-405F-B779-2F06700BF091}|LatihanPolymorphism\\LatihanPolymorphism.csproj|e:\\visual studio\\c#\\latihanpolymorphism\\latihanpolymorphism\\kucing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7D263F-401A-405F-B779-2F06700BF091}|LatihanPolymorphism\\LatihanPolymorphism.csproj|solutionrelative:latihanpolymorphism\\kucing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7D263F-401A-405F-B779-2F06700BF091}|LatihanPolymorphism\\LatihanPolymorphism.csproj|e:\\visual studio\\c#\\latihanpolymorphism\\latihanpolymorphism\\hewan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7D263F-401A-405F-B779-2F06700BF091}|LatihanPolymorphism\\LatihanPolymorphism.csproj|solutionrelative:latihanpolymorphism\\hewan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Anjing.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\LatihanPolymorphism\\LatihanPolymorphism\\Anjing.cs",
+              "RelativeDocumentMoniker": "LatihanPolymorphism\\Anjing.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\LatihanPolymorphism\\LatihanPolymorphism\\Anjing.cs",
+              "RelativeToolTip": "LatihanPolymorphism\\Anjing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:07:30.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kucing.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\LatihanPolymorphism\\LatihanPolymorphism\\Kucing.cs",
+              "RelativeDocumentMoniker": "LatihanPolymorphism\\Kucing.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\LatihanPolymorphism\\LatihanPolymorphism\\Kucing.cs",
+              "RelativeToolTip": "LatihanPolymorphism\\Kucing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:07:17.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hewan.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\LatihanPolymorphism\\LatihanPolymorphism\\Hewan.cs",
+              "RelativeDocumentMoniker": "LatihanPolymorphism\\Hewan.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\LatihanPolymorphism\\LatihanPolymorphism\\Hewan.cs",
+              "RelativeToolTip": "LatihanPolymorphism\\Hewan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:06:59.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\C#\\LatihanPolymorphism\\LatihanPolymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "LatihanPolymorphism\\Program.cs",
+              "ToolTip": "E:\\Visual Studio\\C#\\LatihanPolymorphism\\LatihanPolymorphism\\Program.cs",
+              "RelativeToolTip": "LatihanPolymorphism\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:06:43.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
