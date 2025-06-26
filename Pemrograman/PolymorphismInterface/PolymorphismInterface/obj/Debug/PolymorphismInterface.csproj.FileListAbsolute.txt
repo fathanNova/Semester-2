@@ -1,0 +1,11 @@
+E:\Github\Semester-2\Pemrograman\PolymorphismInterface\PolymorphismInterface\bin\Debug\PolymorphismInterface.exe.config
+E:\Github\Semester-2\Pemrograman\PolymorphismInterface\PolymorphismInterface\bin\Debug\PolymorphismInterface.exe
+E:\Github\Semester-2\Pemrograman\PolymorphismInterface\PolymorphismInterface\bin\Debug\PolymorphismInterface.pdb
+E:\Github\Semester-2\Pemrograman\PolymorphismInterface\PolymorphismInterface\bin\Debug\Newtonsoft.Json.dll
+E:\Github\Semester-2\Pemrograman\PolymorphismInterface\PolymorphismInterface\bin\Debug\Newtonsoft.Json.xml
+E:\Github\Semester-2\Pemrograman\PolymorphismInterface\PolymorphismInterface\obj\Debug\PolymorphismInterface.csproj.AssemblyReference.cache
+E:\Github\Semester-2\Pemrograman\PolymorphismInterface\PolymorphismInterface\obj\Debug\PolymorphismInterface.csproj.CoreCompileInputs.cache
+E:\Github\Semester-2\Pemrograman\PolymorphismInterface\PolymorphismInterface\obj\Debug\Polymorp.32575C69.Up2Date
+E:\Github\Semester-2\Pemrograman\PolymorphismInterface\PolymorphismInterface\obj\Debug\PolymorphismInterface.exe
+E:\Github\Semester-2\Pemrograman\PolymorphismInterface\PolymorphismInterface\obj\Debug\PolymorphismInterface.pdb
+E:\Github\Semester-2\Pemrograman\PolymorphismInterface\PolymorphismInterface\obj\Debug\PolymorphismInterface.exe.config

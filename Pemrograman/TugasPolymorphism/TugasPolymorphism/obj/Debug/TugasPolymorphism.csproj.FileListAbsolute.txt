@@ -1,0 +1,8 @@
+E:\Github\Semester-2\Pemrograman\TugasPolymorphism\TugasPolymorphism\bin\Debug\TugasPolymorphism.exe.config
+E:\Github\Semester-2\Pemrograman\TugasPolymorphism\TugasPolymorphism\bin\Debug\TugasPolymorphism.exe
+E:\Github\Semester-2\Pemrograman\TugasPolymorphism\TugasPolymorphism\bin\Debug\TugasPolymorphism.pdb
+E:\Github\Semester-2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\TugasPolymorphism.csproj.AssemblyReference.cache
+E:\Github\Semester-2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\TugasPolymorphism.csproj.CoreCompileInputs.cache
+E:\Github\Semester-2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\TugasPolymorphism.exe
+E:\Github\Semester-2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\TugasPolymorphism.pdb
+E:\Github\Semester-2\Pemrograman\TugasPolymorphism\TugasPolymorphism\obj\Debug\TugasPolymorphism.exe.config
