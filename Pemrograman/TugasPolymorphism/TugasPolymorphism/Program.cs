@@ -11,7 +11,8 @@ namespace TugasPolymorphism
     {
         static void Main(string[] args)
         {
-            KarakterGame karakter;
+            /// mengubah dari inheritance menjadi interface
+            IKarakterGame karakter;
 
             karakter = new Zombie("Zed");
             karakter.Bergerak();

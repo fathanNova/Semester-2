@@ -6,17 +6,18 @@ using System.Threading.Tasks;
 
 namespace TugasPolymorphism
 {
-    internal class Robot : KarakterGame
+    internal class Robot : IKarakterGame
     {
-        public Robot(string name) : base(name) 
+        public string Nama {  get; set; }
+        public Robot(string name)
         {
-        
+            Nama = name;
         }
-        public override void Bergerak()
+        public void Bergerak()
         {
             Console.WriteLine("{0} meluncur dengan roda anti-gravitasi.", Nama);
         }
-        public override void Menyerang()
+        public void Menyerang()
         {
             Console.WriteLine("{0} menembakkan laser dari lengannya.", Nama);
         }

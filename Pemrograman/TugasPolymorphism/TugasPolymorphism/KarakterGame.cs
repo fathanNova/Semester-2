@@ -6,20 +6,14 @@ using System.Threading.Tasks;
 
 namespace TugasPolymorphism
 {
-    public class KarakterGame
+    public interface IKarakterGame
     {
-        public KarakterGame(string nama) { 
+        string Nama { get; set; }
+        /*public IKarakterGame(string nama) { 
             Nama = nama;
-        }
-        public string Nama {  get; set; }
+        }*/
 
-        public virtual void Bergerak()
-        {
-
-        }
-        public virtual void Menyerang()
-        {
-
-        }
+        void Bergerak();
+        void Menyerang();
     }
 }

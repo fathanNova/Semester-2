@@ -6,17 +6,18 @@ using System.Threading.Tasks;
 
 namespace TugasPolymorphism
 {
-    internal class Manusia : KarakterGame
+    public class Manusia : IKarakterGame
     {
-        public Manusia(string nama) : base(nama) 
-        { 
-        
+        public string Nama { get; set; }
+        public Manusia(string name)
+        {
+            Nama = name;
         }
-        public override void Bergerak()
+        public void Bergerak()
         {
             Console.WriteLine("{0} berlari menuju posisi aman.", Nama);
         }
-        public override void Menyerang()
+        public void Menyerang()
         {
             Console.WriteLine("{0} menembak musuh dengan senjata api.", Nama);
         }
