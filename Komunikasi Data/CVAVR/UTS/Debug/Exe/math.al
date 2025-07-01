@@ -258,11 +258,11 @@ __lsign0:
 ;PCODE: $00000096 VOL: 0
 ;PCODE: $00000097 VOL: 0
 ;PCODE: $00000098 VOL: 0
-    ld   r26,y+
+  ld   r26,y+
 ;PCODE: $00000099 VOL: 0
-    ld   r27,y+
+  ld   r27,y+
 ;PCODE: $0000009A VOL: 0
-    clr	 r30
+  clr	 r30
 ;PCODE: $0000009B VOL: 0
 	clr	 r0
 ;PCODE: $0000009C VOL: 0

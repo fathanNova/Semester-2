@@ -5,7 +5,7 @@
 
 #define ADC_VREF_TYPE ((1<<REFS0) | (0<<REFS1) | (0<<ADLAR))  
 
-
+// Inisialisasi ADC, secara otomatis akan ada jika saat awal konfigurasi mengenable ADC.
 unsigned int read_adc(unsigned char adc_input)
 {
     ADMUX = adc_input | ADC_VREF_TYPE;  // Pilih channel ADC
@@ -16,7 +16,12 @@ unsigned int read_adc(unsigned char adc_input)
     return ADCW;                        // Return nilai ADC
 }
 
-
+// Rumus adalah sebuah fungsi untuk mengkonversi nilai dari ADC menjadi nilai suhu 
+// dalam derajat celcius.
+// adc_value memiliki rentang nilai antara 0-1023, jumlahnya 1024.
+// 5.0 adalah tegangan reverensi (5V)
+// Untuk memperoleh suhu maka nilai dari voltage dikalikan dengan 100.
+// Pada sensor LM35, setiap 0,01V bernilai 1ºC. 
 float Rumus(unsigned int adc_value)
 {
     float voltage = (adc_value * 5.0) / 1024.0;
@@ -27,53 +32,62 @@ void main(void)
 {
     char dataSuhu[10];
     float suhu;
-    unsigned char gas;
-    unsigned char flame;
-    unsigned char alarmAktif = 0;
+    char gas;
+    char flame;
+    char alarmAktif = 0;
     int i;
-
+    
+    // PORTA 0-7 merupakan bagian yang akan terhubung dengan perangkat sensor
     DDRA = 0x00;     
     PORTA = 0x00;
-    
-    DDRB &= ~(1 << 0); 
-    PORTB.0=0; 
-
+    // PORTC 0-7 merupakan bagian output data untuk LCD
     DDRC = 0xFF;      
     PORTC = 0x00;
-
-    DDRD |= (1 << 7);  
-    PORTD &= ~(1 << 7);
-
-   
-    ADMUX = ADC_VREF_TYPE;
-    ADCSRA = (1<<ADEN) | (1<<ADPS2) | (1<<ADPS1) | (1<<ADPS0);  // Enable ADC, prescaler 128
-    SFIOR = 0x00;
-
+    // PORTD7 (0x80 dalam hexa) merupakan bagian untuk perangkat speaker
+    DDRD = 0x80;  
+    PORTD = 0x00;
+     
+    // Inisialisasi ADC, akan ada secara otomatis juga saat enable ADC.
+     ADMUX=ADC_VREF_TYPE;
+     ADCSRA=(1<<ADEN) | (0<<ADSC) | (0<<ADATE) | (0<<ADIF) | (0<<ADIE) | (1<<ADPS2) | (0<<ADPS1) | (0<<ADPS0);
+     SFIOR=(0<<ADTS2) | (0<<ADTS1) | (0<<ADTS0); 
+     
     lcd_init(16);
     lcd_clear();
 
     while (1)
     {
-      
-        suhu = Rumus(read_adc(0));
+        // Mengisi variable suhu dengan hasil dari perhitungan di fungsi Rumus.
+        suhu = Rumus(read_adc(0));  
+        
+        // ftoa adalah fungsi untuk mengubah nilai float ke string.
+        // Data dari variable suhu yang berupa float, diubah menjadi string dan disimpan ke
+        // dataSuhu. 
         ftoa(suhu, 1, dataSuhu);
         
-        gas = PINA&(1<<1);
-        flame = PINA&(1<<2); 
+        gas = PINA.1; // Nilai dari gas berupa PINA.1 saat ini.
+        flame = PINA.2; // Nilai dari flame berupa PINA.2 saat ini.
         alarmAktif = 0;
         
+        // Menampilkan output suhu pada LCD.
         lcd_gotoxy(0, 0);
         lcd_puts("Monitor Suhu   ");
         lcd_gotoxy(0, 1);
         lcd_puts("Suhu : ");
-        lcd_puts(dataSuhu);
+        lcd_puts(dataSuhu);  
+         
+        // 223 merupakan kode ASCII yang akan menampilkan simbol derajat (º) pada LCD berbasis
+        // HD44780.
         lcd_putchar(223);
         lcd_puts("C    ");
         
+        // Menampilkan output kondisi saat ini pada LCD
         lcd_gotoxy(0,3);
         if(gas && flame)
-        {
-         lcd_puts("KEBAKARAN!           ");
+        {    
+        // Jarak yang lebar antara teks dengan penutup petik dua string (") dimaksudkan agar
+        // teks yang tampil di LCD saat kondisi berubah tidak saling tertimpa.
+         lcd_puts("KEBAKARAN!           "); 
          alarmAktif = 1;
         }
         else if(gas) 
@@ -86,6 +100,10 @@ void main(void)
          lcd_puts("API TERDETEKSI!          ");
          alarmAktif = 1;
         } 
+        else if(suhu >= 30.0 && suhu <= 34.5)
+        {
+         lcd_puts("SUHU MENINGKAT!         ");
+        }
         else if(suhu >= 35.0)
         {
          lcd_puts("SUHU TINGGI!         ");
@@ -96,20 +114,21 @@ void main(void)
          lcd_puts("AMAN                 ");
         }                   
         
+        // Pengecekan kondisi dari alarmAktif
         if (alarmAktif)
-        {  
-            //PORTD.7 = 1;
+        { 
+        // Perulangan untuk membunyikan Alarm 
          for(i = 0; i < 50; i++)
          {         
-            PORTD |= (1 << 7);      
+            PORTD.7 = 0;      
             delay_us(2700);
-            PORTD &= ~(1 << 7);
+            PORTD.7 = 1;
             delay_us(2700);
          } 
         }
         else
         {
-            PORTD &= ~(1 << 7);     
+            PORTD.7 = 0;     
             delay_ms(500);          
         }
         //delay_ms(10);

@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{8651EECE-77E3-4595-A336-AF1D286BEB8F}|TugasPolymorphism\\TugasPolymorphism.csproj|solutionrelative:tugaspolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8651EECE-77E3-4595-A336-AF1D286BEB8F}|TugasPolymorphism\\TugasPolymorphism.csproj|e:\\github\\semester-2\\pemrograman\\tugaspolymorphism\\tugaspolymorphism\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8651EECE-77E3-4595-A336-AF1D286BEB8F}|TugasPolymorphism\\TugasPolymorphism.csproj|solutionrelative:tugaspolymorphism\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8651EECE-77E3-4595-A336-AF1D286BEB8F}|TugasPolymorphism\\TugasPolymorphism.csproj|E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\tugaspolymorphism\\karaktergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8651EECE-77E3-4595-A336-AF1D286BEB8F}|TugasPolymorphism\\TugasPolymorphism.csproj|solutionrelative:tugaspolymorphism\\karaktergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8651EECE-77E3-4595-A336-AF1D286BEB8F}|TugasPolymorphism\\TugasPolymorphism.csproj|e:\\github\\semester-2\\pemrograman\\tugaspolymorphism\\tugaspolymorphism\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8651EECE-77E3-4595-A336-AF1D286BEB8F}|TugasPolymorphism\\TugasPolymorphism.csproj|solutionrelative:tugaspolymorphism\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8651EECE-77E3-4595-A336-AF1D286BEB8F}|TugasPolymorphism\\TugasPolymorphism.csproj|e:\\github\\semester-2\\pemrograman\\tugaspolymorphism\\tugaspolymorphism\\manusia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8651EECE-77E3-4595-A336-AF1D286BEB8F}|TugasPolymorphism\\TugasPolymorphism.csproj|E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\tugaspolymorphism\\manusia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8651EECE-77E3-4595-A336-AF1D286BEB8F}|TugasPolymorphism\\TugasPolymorphism.csproj|solutionrelative:tugaspolymorphism\\manusia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8651EECE-77E3-4595-A336-AF1D286BEB8F}|TugasPolymorphism\\TugasPolymorphism.csproj|e:\\github\\semester-2\\pemrograman\\tugaspolymorphism\\tugaspolymorphism\\karaktergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8651EECE-77E3-4595-A336-AF1D286BEB8F}|TugasPolymorphism\\TugasPolymorphism.csproj|solutionrelative:tugaspolymorphism\\karaktergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8651EECE-77E3-4595-A336-AF1D286BEB8F}|TugasPolymorphism\\TugasPolymorphism.csproj|E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\tugaspolymorphism\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8651EECE-77E3-4595-A336-AF1D286BEB8F}|TugasPolymorphism\\TugasPolymorphism.csproj|solutionrelative:tugaspolymorphism\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8651EECE-77E3-4595-A336-AF1D286BEB8F}|TugasPolymorphism\\TugasPolymorphism.csproj|E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\tugaspolymorphism\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8651EECE-77E3-4595-A336-AF1D286BEB8F}|TugasPolymorphism\\TugasPolymorphism.csproj|solutionrelative:tugaspolymorphism\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,52 +34,52 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Robot.cs",
               "DocumentMoniker": "E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\Robot.cs",
               "RelativeDocumentMoniker": "TugasPolymorphism\\Robot.cs",
-              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\Robot.cs",
-              "RelativeToolTip": "TugasPolymorphism\\Robot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
+              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\Robot.cs*",
+              "RelativeToolTip": "TugasPolymorphism\\Robot.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T12:44:01.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Zombie.cs",
               "DocumentMoniker": "E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\Zombie.cs",
               "RelativeDocumentMoniker": "TugasPolymorphism\\Zombie.cs",
-              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\Zombie.cs",
-              "RelativeToolTip": "TugasPolymorphism\\Zombie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\Zombie.cs*",
+              "RelativeToolTip": "TugasPolymorphism\\Zombie.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T12:43:50.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Manusia.cs",
               "DocumentMoniker": "E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\Manusia.cs",
               "RelativeDocumentMoniker": "TugasPolymorphism\\Manusia.cs",
-              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\Manusia.cs",
-              "RelativeToolTip": "TugasPolymorphism\\Manusia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
+              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\Manusia.cs*",
+              "RelativeToolTip": "TugasPolymorphism\\Manusia.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T12:43:39.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "KarakterGame.cs",
               "DocumentMoniker": "E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\KarakterGame.cs",
               "RelativeDocumentMoniker": "TugasPolymorphism\\KarakterGame.cs",
-              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\KarakterGame.cs",
-              "RelativeToolTip": "TugasPolymorphism\\KarakterGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\KarakterGame.cs*",
+              "RelativeToolTip": "TugasPolymorphism\\KarakterGame.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T12:43:26.217Z",
               "EditorCaption": ""
@@ -90,9 +90,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\Program.cs",
               "RelativeDocumentMoniker": "TugasPolymorphism\\Program.cs",
-              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\Program.cs",
-              "RelativeToolTip": "TugasPolymorphism\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasPolymorphism\\TugasPolymorphism\\Program.cs*",
+              "RelativeToolTip": "TugasPolymorphism\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T12:41:44.715Z",
               "EditorCaption": ""
