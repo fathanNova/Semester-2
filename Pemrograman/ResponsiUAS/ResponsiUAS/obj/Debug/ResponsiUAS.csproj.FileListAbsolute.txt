@@ -1,0 +1,8 @@
+E:\Github\Semester-2\Pemrograman\ResponsiUAS\ResponsiUAS\bin\Debug\ResponsiUAS.exe.config
+E:\Github\Semester-2\Pemrograman\ResponsiUAS\ResponsiUAS\bin\Debug\ResponsiUAS.exe
+E:\Github\Semester-2\Pemrograman\ResponsiUAS\ResponsiUAS\bin\Debug\ResponsiUAS.pdb
+E:\Github\Semester-2\Pemrograman\ResponsiUAS\ResponsiUAS\obj\Debug\ResponsiUAS.csproj.AssemblyReference.cache
+E:\Github\Semester-2\Pemrograman\ResponsiUAS\ResponsiUAS\obj\Debug\ResponsiUAS.csproj.CoreCompileInputs.cache
+E:\Github\Semester-2\Pemrograman\ResponsiUAS\ResponsiUAS\obj\Debug\ResponsiUAS.exe
+E:\Github\Semester-2\Pemrograman\ResponsiUAS\ResponsiUAS\obj\Debug\ResponsiUAS.pdb
+E:\Github\Semester-2\Pemrograman\ResponsiUAS\ResponsiUAS\obj\Debug\ResponsiUAS.exe.config

@@ -27,7 +27,7 @@ Active0=0
 EditorPanel0=0
 PageIndex0=0
 EditorPanel1=0
-TimeStamp1=1524735503
+TimeStamp1=1524737893
 PageIndex1=1
 OF2=..\Praktik5\led.c
 Active2=0
@@ -406,7 +406,7 @@ Row=0
 Column=0
 ScrollPosX=0
 ScrollPosY=0
-TimeStamp=1524736603
+TimeStamp=1524740582
 [BookmarksFoldedCode]
 Files=4
 F1=alarm.c
@@ -414,11 +414,11 @@ F2=..\Praktik7\7seg.c
 F3=..\Praktik6\buz.c
 F4=..\Praktik5\led.c
 [Bookmarks1]
-TimeStamp=1524735503
-Row=48
-Column=7
+TimeStamp=1524737893
+Row=87
+Column=57
 ScrollPosX=0
-ScrollPosY=19
+ScrollPosY=0
 BK0=-1
 BK1=-1
 BK2=-1
@@ -477,14 +477,6 @@ BK6=-1
 BK7=-1
 BK8=-1
 BK9=-1
-[FoldedCode1]
-Blocks=0
-[FoldedCode2]
-Blocks=0
-[FoldedCode3]
-Blocks=0
-[FoldedCode4]
-Blocks=0
 [HeadersList]
 Files=1
 F1=E:\Github\Semester-2\Komunikasi Data\CVAVR\UTS\alarm.c
@@ -495,3 +487,11 @@ F2=C:\cvavr\inc\mega32_bits.h
 F3=C:\cvavr\inc\stdlib.h
 F4=C:\cvavr\inc\delay.h
 F5=C:\cvavr\inc\alcd.h
+[FoldedCode1]
+Blocks=0
+[FoldedCode2]
+Blocks=0
+[FoldedCode3]
+Blocks=0
+[FoldedCode4]
+Blocks=0
