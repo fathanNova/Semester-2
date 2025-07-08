@@ -1,0 +1,8 @@
+E:\Github\Semester-2\Pemrograman\LatihanArray\LatihanArray\bin\Debug\LatihanArray.exe.config
+E:\Github\Semester-2\Pemrograman\LatihanArray\LatihanArray\bin\Debug\LatihanArray.exe
+E:\Github\Semester-2\Pemrograman\LatihanArray\LatihanArray\bin\Debug\LatihanArray.pdb
+E:\Github\Semester-2\Pemrograman\LatihanArray\LatihanArray\obj\Debug\LatihanArray.csproj.AssemblyReference.cache
+E:\Github\Semester-2\Pemrograman\LatihanArray\LatihanArray\obj\Debug\LatihanArray.csproj.CoreCompileInputs.cache
+E:\Github\Semester-2\Pemrograman\LatihanArray\LatihanArray\obj\Debug\LatihanArray.exe
+E:\Github\Semester-2\Pemrograman\LatihanArray\LatihanArray\obj\Debug\LatihanArray.pdb
+E:\Github\Semester-2\Pemrograman\LatihanArray\LatihanArray\obj\Debug\LatihanArray.exe.config
