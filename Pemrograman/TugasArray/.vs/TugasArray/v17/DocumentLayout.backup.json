@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\Semester-2\\Pemrograman\\TugasArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F6A083-08C5-4CCB-A1EA-625C32AA45BC}|TugasArray\\TugasArray.csproj|e:\\github\\semester-2\\pemrograman\\tugasarray\\tugasarray\\pegawaikontrak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F6A083-08C5-4CCB-A1EA-625C32AA45BC}|TugasArray\\TugasArray.csproj|solutionrelative:tugasarray\\pegawaikontrak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F6A083-08C5-4CCB-A1EA-625C32AA45BC}|TugasArray\\TugasArray.csproj|e:\\github\\semester-2\\pemrograman\\tugasarray\\tugasarray\\pegawaiharian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F6A083-08C5-4CCB-A1EA-625C32AA45BC}|TugasArray\\TugasArray.csproj|solutionrelative:tugasarray\\pegawaiharian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F6A083-08C5-4CCB-A1EA-625C32AA45BC}|TugasArray\\TugasArray.csproj|e:\\github\\semester-2\\pemrograman\\tugasarray\\tugasarray\\pegawaitetap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F6A083-08C5-4CCB-A1EA-625C32AA45BC}|TugasArray\\TugasArray.csproj|solutionrelative:tugasarray\\pegawaitetap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F6A083-08C5-4CCB-A1EA-625C32AA45BC}|TugasArray\\TugasArray.csproj|e:\\github\\semester-2\\pemrograman\\tugasarray\\tugasarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F6A083-08C5-4CCB-A1EA-625C32AA45BC}|TugasArray\\TugasArray.csproj|solutionrelative:tugasarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F6A083-08C5-4CCB-A1EA-625C32AA45BC}|TugasArray\\TugasArray.csproj|e:\\github\\semester-2\\pemrograman\\tugasarray\\tugasarray\\pegawai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F6A083-08C5-4CCB-A1EA-625C32AA45BC}|TugasArray\\TugasArray.csproj|solutionrelative:tugasarray\\pegawai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github\\Semester-2\\Pemrograman\\TugasArray\\TugasArray\\Program.cs",
+              "RelativeDocumentMoniker": "TugasArray\\Program.cs",
+              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasArray\\TugasArray\\Program.cs",
+              "RelativeToolTip": "TugasArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:26:42.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PegawaiHarian.cs",
+              "DocumentMoniker": "E:\\Github\\Semester-2\\Pemrograman\\TugasArray\\TugasArray\\PegawaiHarian.cs",
+              "RelativeDocumentMoniker": "TugasArray\\PegawaiHarian.cs",
+              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasArray\\TugasArray\\PegawaiHarian.cs",
+              "RelativeToolTip": "TugasArray\\PegawaiHarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T15:10:28.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PegawaiTetap.cs",
+              "DocumentMoniker": "E:\\Github\\Semester-2\\Pemrograman\\TugasArray\\TugasArray\\PegawaiTetap.cs",
+              "RelativeDocumentMoniker": "TugasArray\\PegawaiTetap.cs",
+              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasArray\\TugasArray\\PegawaiTetap.cs",
+              "RelativeToolTip": "TugasArray\\PegawaiTetap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T15:10:01.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PegawaiKontrak.cs",
+              "DocumentMoniker": "E:\\Github\\Semester-2\\Pemrograman\\TugasArray\\TugasArray\\PegawaiKontrak.cs",
+              "RelativeDocumentMoniker": "TugasArray\\PegawaiKontrak.cs",
+              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasArray\\TugasArray\\PegawaiKontrak.cs",
+              "RelativeToolTip": "TugasArray\\PegawaiKontrak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T15:10:15.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pegawai.cs",
+              "DocumentMoniker": "E:\\Github\\Semester-2\\Pemrograman\\TugasArray\\TugasArray\\Pegawai.cs",
+              "RelativeDocumentMoniker": "TugasArray\\Pegawai.cs",
+              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasArray\\TugasArray\\Pegawai.cs",
+              "RelativeToolTip": "TugasArray\\Pegawai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T15:09:47.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

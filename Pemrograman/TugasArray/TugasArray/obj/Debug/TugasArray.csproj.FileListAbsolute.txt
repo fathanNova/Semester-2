@@ -1,0 +1,8 @@
+E:\Github\Semester-2\Pemrograman\TugasArray\TugasArray\bin\Debug\TugasArray.exe.config
+E:\Github\Semester-2\Pemrograman\TugasArray\TugasArray\bin\Debug\TugasArray.exe
+E:\Github\Semester-2\Pemrograman\TugasArray\TugasArray\bin\Debug\TugasArray.pdb
+E:\Github\Semester-2\Pemrograman\TugasArray\TugasArray\obj\Debug\TugasArray.csproj.AssemblyReference.cache
+E:\Github\Semester-2\Pemrograman\TugasArray\TugasArray\obj\Debug\TugasArray.csproj.CoreCompileInputs.cache
+E:\Github\Semester-2\Pemrograman\TugasArray\TugasArray\obj\Debug\TugasArray.exe
+E:\Github\Semester-2\Pemrograman\TugasArray\TugasArray\obj\Debug\TugasArray.pdb
+E:\Github\Semester-2\Pemrograman\TugasArray\TugasArray\obj\Debug\TugasArray.exe.config
