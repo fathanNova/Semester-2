@@ -5,3 +5,4 @@ E:\Github\Semester-2\Pemrograman\LatihanList\LatihanList\obj\Debug\LatihanList.c
 E:\Github\Semester-2\Pemrograman\LatihanList\LatihanList\obj\Debug\LatihanList.csproj.CoreCompileInputs.cache
 E:\Github\Semester-2\Pemrograman\LatihanList\LatihanList\obj\Debug\LatihanList.exe
 E:\Github\Semester-2\Pemrograman\LatihanList\LatihanList\obj\Debug\LatihanList.pdb
+E:\Github\Semester-2\Pemrograman\LatihanList\LatihanList\obj\Debug\LatihanList.exe.config

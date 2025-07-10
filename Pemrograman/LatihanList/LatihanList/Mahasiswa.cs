@@ -10,7 +10,5 @@ namespace LatihanList
     {
         public string Nim { get; set; }
         public string Nama { get; set; }
-
-
     }
 }
