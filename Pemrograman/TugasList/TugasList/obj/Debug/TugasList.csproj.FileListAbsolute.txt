@@ -1,0 +1,8 @@
+E:\Github\Semester-2\Pemrograman\TugasList\TugasList\bin\Debug\TugasList.exe.config
+E:\Github\Semester-2\Pemrograman\TugasList\TugasList\bin\Debug\TugasList.exe
+E:\Github\Semester-2\Pemrograman\TugasList\TugasList\bin\Debug\TugasList.pdb
+E:\Github\Semester-2\Pemrograman\TugasList\TugasList\obj\Debug\TugasList.csproj.AssemblyReference.cache
+E:\Github\Semester-2\Pemrograman\TugasList\TugasList\obj\Debug\TugasList.csproj.CoreCompileInputs.cache
+E:\Github\Semester-2\Pemrograman\TugasList\TugasList\obj\Debug\TugasList.exe
+E:\Github\Semester-2\Pemrograman\TugasList\TugasList\obj\Debug\TugasList.pdb
+E:\Github\Semester-2\Pemrograman\TugasList\TugasList\obj\Debug\TugasList.exe.config

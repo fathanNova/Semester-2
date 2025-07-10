@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\Semester-2\\Pemrograman\\TugasList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7694DB06-BD71-415E-AF68-54439F61450A}|TugasList\\TugasList.csproj|e:\\github\\semester-2\\pemrograman\\tugaslist\\tugaslist\\pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7694DB06-BD71-415E-AF68-54439F61450A}|TugasList\\TugasList.csproj|solutionrelative:tugaslist\\pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7694DB06-BD71-415E-AF68-54439F61450A}|TugasList\\TugasList.csproj|e:\\github\\semester-2\\pemrograman\\tugaslist\\tugaslist\\jne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7694DB06-BD71-415E-AF68-54439F61450A}|TugasList\\TugasList.csproj|solutionrelative:tugaslist\\jne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7694DB06-BD71-415E-AF68-54439F61450A}|TugasList\\TugasList.csproj|e:\\github\\semester-2\\pemrograman\\tugaslist\\tugaslist\\gosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7694DB06-BD71-415E-AF68-54439F61450A}|TugasList\\TugasList.csproj|solutionrelative:tugaslist\\gosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7694DB06-BD71-415E-AF68-54439F61450A}|TugasList\\TugasList.csproj|e:\\github\\semester-2\\pemrograman\\tugaslist\\tugaslist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7694DB06-BD71-415E-AF68-54439F61450A}|TugasList\\TugasList.csproj|solutionrelative:tugaslist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7694DB06-BD71-415E-AF68-54439F61450A}|TugasList\\TugasList.csproj|e:\\github\\semester-2\\pemrograman\\tugaslist\\tugaslist\\pengiriman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7694DB06-BD71-415E-AF68-54439F61450A}|TugasList\\TugasList.csproj|solutionrelative:tugaslist\\pengiriman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pos.cs",
+              "DocumentMoniker": "E:\\Github\\Semester-2\\Pemrograman\\TugasList\\TugasList\\Pos.cs",
+              "RelativeDocumentMoniker": "TugasList\\Pos.cs",
+              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasList\\TugasList\\Pos.cs",
+              "RelativeToolTip": "TugasList\\Pos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T14:41:24.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JNE.cs",
+              "DocumentMoniker": "E:\\Github\\Semester-2\\Pemrograman\\TugasList\\TugasList\\JNE.cs",
+              "RelativeDocumentMoniker": "TugasList\\JNE.cs",
+              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasList\\TugasList\\JNE.cs",
+              "RelativeToolTip": "TugasList\\JNE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T14:41:16.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoSend.cs",
+              "DocumentMoniker": "E:\\Github\\Semester-2\\Pemrograman\\TugasList\\TugasList\\GoSend.cs",
+              "RelativeDocumentMoniker": "TugasList\\GoSend.cs",
+              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasList\\TugasList\\GoSend.cs",
+              "RelativeToolTip": "TugasList\\GoSend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T14:41:05.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pengiriman.cs",
+              "DocumentMoniker": "E:\\Github\\Semester-2\\Pemrograman\\TugasList\\TugasList\\Pengiriman.cs",
+              "RelativeDocumentMoniker": "TugasList\\Pengiriman.cs",
+              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasList\\TugasList\\Pengiriman.cs",
+              "RelativeToolTip": "TugasList\\Pengiriman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T14:40:52.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github\\Semester-2\\Pemrograman\\TugasList\\TugasList\\Program.cs",
+              "RelativeDocumentMoniker": "TugasList\\Program.cs",
+              "ToolTip": "E:\\Github\\Semester-2\\Pemrograman\\TugasList\\TugasList\\Program.cs",
+              "RelativeToolTip": "TugasList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T14:40:31.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
