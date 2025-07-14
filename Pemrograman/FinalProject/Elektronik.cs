@@ -1,0 +1,14 @@
+using System;
+
+namespace FinalProject
+{
+    internal class Elektronik : Barang
+    {
+        public override void Output()
+        {
+            Console.WriteLine("[Elektronik] {0}", Nama);
+            Console.WriteLine("Jumlah: {0}", Jumlah);
+            Console.WriteLine("Harga: {0:N0}\n", Jumlah);
+        }
+    }
+}
