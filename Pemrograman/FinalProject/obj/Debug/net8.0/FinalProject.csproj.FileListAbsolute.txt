@@ -1,0 +1,15 @@
+/home/nova/Github/Semester-2/Pemrograman/FinalProject/bin/Debug/net8.0/FinalProject
+/home/nova/Github/Semester-2/Pemrograman/FinalProject/bin/Debug/net8.0/FinalProject.deps.json
+/home/nova/Github/Semester-2/Pemrograman/FinalProject/bin/Debug/net8.0/FinalProject.runtimeconfig.json
+/home/nova/Github/Semester-2/Pemrograman/FinalProject/bin/Debug/net8.0/FinalProject.dll
+/home/nova/Github/Semester-2/Pemrograman/FinalProject/bin/Debug/net8.0/FinalProject.pdb
+/home/nova/Github/Semester-2/Pemrograman/FinalProject/obj/Debug/net8.0/FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/nova/Github/Semester-2/Pemrograman/FinalProject/obj/Debug/net8.0/FinalProject.AssemblyInfoInputs.cache
+/home/nova/Github/Semester-2/Pemrograman/FinalProject/obj/Debug/net8.0/FinalProject.AssemblyInfo.cs
+/home/nova/Github/Semester-2/Pemrograman/FinalProject/obj/Debug/net8.0/FinalProject.csproj.CoreCompileInputs.cache
+/home/nova/Github/Semester-2/Pemrograman/FinalProject/obj/Debug/net8.0/FinalProject.sourcelink.json
+/home/nova/Github/Semester-2/Pemrograman/FinalProject/obj/Debug/net8.0/FinalProject.dll
+/home/nova/Github/Semester-2/Pemrograman/FinalProject/obj/Debug/net8.0/refint/FinalProject.dll
+/home/nova/Github/Semester-2/Pemrograman/FinalProject/obj/Debug/net8.0/FinalProject.pdb
+/home/nova/Github/Semester-2/Pemrograman/FinalProject/obj/Debug/net8.0/FinalProject.genruntimeconfig.cache
+/home/nova/Github/Semester-2/Pemrograman/FinalProject/obj/Debug/net8.0/ref/FinalProject.dll

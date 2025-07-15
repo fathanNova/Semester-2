@@ -6,9 +6,9 @@ namespace FinalProject
     {
         public override void Output()
         {
-            Console.WriteLine("[Elektronik] {0}", Nama);
-            Console.WriteLine("Jumlah: {0}", Jumlah);
-            Console.WriteLine("Harga: {0:N0}\n", Jumlah);
+            Console.WriteLine("\n[Elektronik]\t: {0}", Nama);
+            Console.WriteLine("Harga\t\t: Rp{0:N0}", Harga);
+            Console.WriteLine("Jumlah\t\t: {0}", Jumlah);
         }
     }
 }

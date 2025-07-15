@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nova/Visual Code/C#/FinalProject/FinalProject.csproj",
+      "projectUniqueName": "/home/nova/Github/Semester-2/Pemrograman/FinalProject/FinalProject.csproj",
       "projectName": "FinalProject",
-      "projectPath": "/home/nova/Visual Code/C#/FinalProject/FinalProject.csproj",
+      "projectPath": "/home/nova/Github/Semester-2/Pemrograman/FinalProject/FinalProject.csproj",
       "packagesPath": "/home/nova/.nuget/packages/",
-      "outputPath": "/home/nova/Visual Code/C#/FinalProject/obj/",
+      "outputPath": "/home/nova/Github/Semester-2/Pemrograman/FinalProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nova/.nuget/NuGet/NuGet.Config"
