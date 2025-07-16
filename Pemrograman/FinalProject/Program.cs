@@ -7,6 +7,7 @@ namespace FinalProject
     {
         // List menggunakan method static agar bisa diakses oleh fungsi lainnya 
         static List<Barang> daftarBarang = new List<Barang>(); 
+        
         static void Main(string[] args)
         {
             int pilihan;
