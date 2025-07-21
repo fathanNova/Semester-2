@@ -6,7 +6,8 @@ namespace FinalProject
     internal class Program
     {
         // List menggunakan method static agar bisa diakses oleh fungsi lainnya 
-        static List<Barang> daftarBarang = new List<Barang>(); 
+        static List<IBarang> daftarBarang = new List<IBarang>();
+
         
         static void Main(string[] args)
         {
@@ -117,7 +118,7 @@ namespace FinalProject
                 string hapus;
                 bool ada = false;
                 Console.Write("\nInputkan Nama Barang yang Ingin Dihapus: ");
-                hapus = Console.ReadLine()!;
+                hapus = Console.ReadLine()!; // menegaskan bahwa hapus bukan nullable 
 
                 for (int i = 0; i < daftarBarang.Count; i++)
                 {
@@ -139,7 +140,7 @@ namespace FinalProject
         static void TambahElektronik()
         {
             Elektronik elektronik = new Elektronik();
-            Console.Write("\nNama Barang: ");
+            Console.Write("\nNama Barang [Elektronik]: ");
             elektronik.Nama = Console.ReadLine()!;
             Console.Write("Harga Barang: ");
             elektronik.Harga = Convert.ToInt32(Console.ReadLine());
@@ -147,41 +148,41 @@ namespace FinalProject
             elektronik.Jumlah = Convert.ToInt16(Console.ReadLine());
 
             daftarBarang.Add(elektronik);
-            Console.WriteLine("\nBarang Elektronik Berhasil Ditambahkan.");
+            Console.WriteLine("\n{0} Berhasil Ditambahkan.", elektronik.Nama);
             Console.ReadKey();
         }
         static void TambahMakanan()
         {
             Makanan makanan = new Makanan();
-            Console.Write("\nNama Barang: ");
+            Console.Write("\nNama Makanan: ");
             makanan.Nama = Console.ReadLine()!;
-            Console.Write("Harga Barang: ");
+            Console.Write("Harga Makanan: ");
             makanan.Harga = Convert.ToInt32(Console.ReadLine());
             Console.Write("Jumlah Barang: ");
             makanan.Jumlah = Convert.ToInt16(Console.ReadLine());
 
             daftarBarang.Add(makanan);
-            Console.WriteLine("\nBarang Makanan Berhasil Ditambahkan.");
+            Console.WriteLine("\n{0} Berhasil Ditambahkan.", makanan.Nama);
             Console.ReadKey();
         }
         static void TambahMinuman()
         {
             Minuman minuman = new Minuman();
-            Console.Write("\nNama Barang: ");
+            Console.Write("\nNama Minuman: ");
             minuman.Nama = Console.ReadLine()!;
-            Console.Write("Harga Barang: ");
+            Console.Write("Harga Minuman: ");
             minuman.Harga = Convert.ToInt32(Console.ReadLine());
             Console.Write("Jumlah Barang: ");
             minuman.Jumlah = Convert.ToInt16(Console.ReadLine());
 
             daftarBarang.Add(minuman);
-            Console.WriteLine("\nBarang Minuman Berhasil Ditambahkan.");
+            Console.WriteLine("\n{0} Berhasil Ditambahkan.", minuman.Nama);
             Console.ReadKey();
         }
         static void TambahAlatTulis()
         {
             AlatTulis alatTulis = new AlatTulis();
-            Console.Write("\nNama Barang: ");
+            Console.Write("\nNama Barang [Alat Tulis]: ");
             alatTulis.Nama = Console.ReadLine()!;
             Console.Write("Harga Barang: ");
             alatTulis.Harga = Convert.ToInt32(Console.ReadLine());
@@ -189,13 +190,13 @@ namespace FinalProject
             alatTulis.Jumlah = Convert.ToInt16(Console.ReadLine());
 
             daftarBarang.Add(alatTulis);
-            Console.WriteLine("\nBarang Alat Tulis Berhasil Ditambahkan.");
+            Console.WriteLine("\n{0} Berhasil Ditambahkan.", alatTulis.Nama);
             Console.ReadKey();
         }
         static void TambahPerabot()
         {
             Perabot perabot = new Perabot();
-            Console.Write("\nNama Barang: ");
+            Console.Write("\nNama Barang [Perabot]: ");
             perabot.Nama = Console.ReadLine()!;
             Console.Write("Harga Barang: ");
             perabot.Harga = Convert.ToInt32(Console.ReadLine());
@@ -203,13 +204,13 @@ namespace FinalProject
             perabot.Jumlah = Convert.ToInt16(Console.ReadLine());
 
             daftarBarang.Add(perabot);
-            Console.WriteLine("\nBarang Perabot Berhasil Ditambahkan.");
+            Console.WriteLine("\n{0} Berhasil Ditambahkan.", perabot.Nama);
             Console.ReadKey();
         }
         static void TambahPakaian()
         {
             Pakaian pakaian = new Pakaian();
-            Console.Write("\nNama Barang: ");
+            Console.Write("\nNama Barang [Pakaian]: ");
             pakaian.Nama = Console.ReadLine()!;
             Console.Write("Harga Barang: ");
             pakaian.Harga = Convert.ToInt32(Console.ReadLine());
@@ -217,7 +218,7 @@ namespace FinalProject
             pakaian.Jumlah = Convert.ToInt16(Console.ReadLine());
 
             daftarBarang.Add(pakaian);
-            Console.WriteLine("\nBarang Pakaian Berhasil Ditambahkan.");
+            Console.WriteLine("\n{0} Berhasil Ditambahkan.", pakaian.Nama);
             Console.ReadKey();
         }
     }

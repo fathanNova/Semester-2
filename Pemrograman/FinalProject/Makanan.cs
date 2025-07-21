@@ -2,9 +2,13 @@ using System;
 
 namespace FinalProject
 {
-    internal class Makanan : Barang
+    internal class Makanan : IBarang
     {
-        public override void Output()
+        public string Nama { get; set; } = ""; 
+        public int Jumlah { get; set; }
+        public int  Harga { get; set; }
+
+        public  void Output()
         {
             Console.WriteLine("\n[Makanan]\t: {0}", Nama);
             Console.WriteLine("Harga\t\t: Rp{0:N0}", Harga);
